@@ -1,3 +1,4 @@
 # レッスンリソース
 # gitignore をカレントディレクトリとしている
+# ./js-essence-for-windows/ <- NG
 js-essence-for-windows/
