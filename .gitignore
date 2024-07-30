@@ -1,2 +1,3 @@
 # レッスンリソース
-/js-essence-for-windows/
+# gitignore をカレントディレクトリとしている
+./js-essence-for-windows/
