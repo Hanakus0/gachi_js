@@ -1,0 +1,6 @@
+{
+  "turboConsoleLog.includeFileNameAndLineNum": true,
+  "turboConsoleLog.addSemicolonInTheEnd": true,
+  "turboConsoleLog.wrapLogMessage": false,
+  "turboConsoleLog.delimiterInsideMessage": "→"
+}
